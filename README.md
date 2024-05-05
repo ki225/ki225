@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🌱 I’m currently learning
+
+
+
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@271yeye)
+## 📈 GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki225&hide_progress=false)
+
 ![Ki225's GitHub stats](https://github-readme-stats.vercel.app/api?username=ki225&show_icons=true&theme=transparent)
