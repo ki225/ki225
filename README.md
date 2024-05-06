@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi 👋
 
-I'm Kiki, a student who is studying cloud security knowledge and skills.
+
 
 <!--
 **ki225/ki225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
