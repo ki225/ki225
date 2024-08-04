@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ## 📄 BLOG
 
-[<img src="[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://github.com/user-attachments/assets/429f1e12-f2ac-406b-9bb0-798a513af75c" width="70" height="70">](https://medium.com/@271yeye)
+[<img src="[https://github.com/user-attachments/assets/429f1e12-f2ac-406b-9bb0-798a513af75c" width="70" height="70">](https://medium.com/@271yeye)
  [<img src="https://github.com/user-attachments/assets/e84e3944-cce2-47ca-aa90-b2db7e3cdfcf"   width="70" height="70" >](https://hackmd.io/@okii77)
