@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ## 📄 BLOG
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@271yeye)
- [<img src="https://camo.githubusercontent.com/74b1b95da36ac8b8f06f221f9e96009d6c5f954a42c335d78369dbee792c7dcd/68747470733a2f2f6861636b6d642e696f2f4b7750426975306e51654f344d54585f304b485857412f6261646765">](https://hackmd.io/@okii77)
+
+[<img src="[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://github.com/user-attachments/assets/429f1e12-f2ac-406b-9bb0-798a513af75c)">](https://medium.com/@271yeye)
+ [<img src="https://github.com/user-attachments/assets/e84e3944-cce2-47ca-aa90-b2db7e3cdfcf">](https://hackmd.io/@okii77)
