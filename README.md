@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ## 📄 BLOG
 
 
-[<img src="https://github.com/user-attachments/assets/736a12f5-6661-42c2-a163-8f3cef485a31" width="70" height="70">](https://medium.com/@271yeye)
+[<img src="https://github.com/user-attachments/assets/736a12f5-6661-42c2-a163-8f3cef485a31" width="90" height="70">](https://medium.com/@271yeye)
  [<img src="https://github.com/user-attachments/assets/e84e3944-cce2-47ca-aa90-b2db7e3cdfcf"   width="70" height="70" >](https://hackmd.io/@okii77)
