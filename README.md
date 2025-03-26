@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# More About Me
+# My Blog
 [Click Here](https://ki225.github.io/)
