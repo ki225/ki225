@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [Click Here](https://ki225.github.io/)
 -->
 ## Skill stack
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,git,docker,cpp,jenkins,postman,terraform&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,git,docker,cpp,jenkins,postman,terraform&perline=10)](https://skillicons.dev)
 ## More about me
 [My Blog](https://ki225.github.io/)
 
