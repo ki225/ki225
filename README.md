@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -->
 ## Skill stack
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,aws,gcp,git,docker,linux,jenkins,postman,figma,terraform&perline=20)](https://skillicons.dev)
-## More about me
-[My Blog](https://ki225.github.io/)
+
 
 
